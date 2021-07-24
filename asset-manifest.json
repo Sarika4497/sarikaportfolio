@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sarikaportfolio/static/css/main.d01abf0e.chunk.css",
+    "main.js": "/sarikaportfolio/static/js/main.6214f59f.chunk.js",
+    "main.js.map": "/sarikaportfolio/static/js/main.6214f59f.chunk.js.map",
+    "runtime-main.js": "/sarikaportfolio/static/js/runtime-main.f0eaa478.js",
+    "runtime-main.js.map": "/sarikaportfolio/static/js/runtime-main.f0eaa478.js.map",
+    "static/js/2.fbe3b27e.chunk.js": "/sarikaportfolio/static/js/2.fbe3b27e.chunk.js",
+    "static/js/2.fbe3b27e.chunk.js.map": "/sarikaportfolio/static/js/2.fbe3b27e.chunk.js.map",
+    "static/js/3.5a3fe786.chunk.js": "/sarikaportfolio/static/js/3.5a3fe786.chunk.js",
+    "static/js/3.5a3fe786.chunk.js.map": "/sarikaportfolio/static/js/3.5a3fe786.chunk.js.map",
+    "index.html": "/sarikaportfolio/index.html",
+    "static/css/main.d01abf0e.chunk.css.map": "/sarikaportfolio/static/css/main.d01abf0e.chunk.css.map",
+    "static/js/2.fbe3b27e.chunk.js.LICENSE.txt": "/sarikaportfolio/static/js/2.fbe3b27e.chunk.js.LICENSE.txt",
+    "static/media/code.07e7dd41.jpg": "/sarikaportfolio/static/media/code.07e7dd41.jpg",
+    "static/media/coffee.edaf8b05.jpg": "/sarikaportfolio/static/media/coffee.edaf8b05.jpg",
+    "static/media/man.f3a20817.jpg": "/sarikaportfolio/static/media/man.f3a20817.jpg",
+    "static/media/me.e84a2899.png": "/sarikaportfolio/static/media/me.e84a2899.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0eaa478.js",
+    "static/js/2.fbe3b27e.chunk.js",
+    "static/css/main.d01abf0e.chunk.css",
+    "static/js/main.6214f59f.chunk.js"
+  ]
+}
